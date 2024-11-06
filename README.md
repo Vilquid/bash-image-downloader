@@ -20,8 +20,8 @@ Required tools: `curl`, `grep`, `sed`, `xargs`, `find`
 ## Usage
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Vilquid/bash-image-downloader.git
+cd bash-image-downloader
 chmod +x script.sh
 ./script.sh
 ```
